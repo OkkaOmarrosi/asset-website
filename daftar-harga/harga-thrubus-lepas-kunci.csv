@@ -1,60 +1,63 @@
-nama,Mobil
-agya,250.000
-brio,250.000
-city hatchback,400.000
-raize,350.000
-yaris,350.000
-all new avanza,350.000
-all new xenia,350.000
-all new ertiga,350.000
-ertiga,300.000
-creta,400.000
-mobilio,350.000
-wuling,400.000
-rush,350.000
-stargazer,400.000
-terios,350.000
-sigra,250.000
-calya,250.000
-avanza,300.000
-xenia,300.000
-xpander,400.000
-innova reborn,450.000
-innova zenix,600.000
-voxy,800.000
-vellfire,1.300.000
-alphard transformer,1.300.000
-alphard facelift,1.500.000
-new alphard hybrid,2.000.000
-palisade,1.500.000
-fortuner,800.000
-pajero,800.000
-land cruiser,7.500.000
-mercy,1.500.000
-ranger,800.000
-hilux,800.000
-triton,800.000
-bmw,1.500.000
-camry,1.200.000
-hiace commuter,700.000
-hiace premio,850.000
-hiace commuter luxury vip,1.200.000
-hiace premio luxury vip,1.500.000
-mercy sprinter,2.500.000
-elf short,450.000
-elf long,800.000
-elf giga,800.000
-medium bus,900.000
-medium bus vip luxury,2.500.000
-big bus,1.500.000
-big bus vip luxury,3.500.000
-pick up l 300,250.000
-pick up suzuki,250.000
-pick up grandmax,250.000
-blind van granmax,250.000
-l300 box,250.000
-cdd box,250.000
-grandmax box,250.000
-cdd bak double,700.000
-cdd bak engkel,550.000
-truk fuso,1.500.000
+Nama Mobil,Mobil,Kategori
+Agya,250.000,CITY CAR
+Brio,250.000,CITY CAR
+Sigra,250.000,CITY CAR
+Calya,250.000,CITY CAR
+Pick Up L 300,250.000,REGULER / PICK UP
+Pick Up Suzuki,250.000,REGULER / PICK UP
+Pick Up Grandmax,250.000,REGULER / PICK UP
+Blind Van Granmax,250.000,REGULER / PICK UP
+L300 Box,250.000,REGULER / PICK UP
+CDD Box,250.000,REGULER / PICK UP
+Grandmax Box,250.000,REGULER / PICK UP
+Ertiga,300.000,REGULER / PICK UP
+Avanza,300.000,REGULER / PICK UP
+Xenia,300.000,REGULER / PICK UP
+Raize,350.000,REGULER / PICK UP
+Yaris,350.000,REGULER / PICK UP
+All New Avanza,350.000,REGULER / PICK UP
+All New Xenia,350.000,REGULER / PICK UP
+All New Ertiga,350.000,REGULER / PICK UP
+Mobilio,350.000,REGULER / PICK UP
+Rush,350.000,REGULER / PICK UP
+Terios,350.000,REGULER / PICK UP
+City Hatchback,400.000,REGULER / PICK UP
+Creta,400.000,REGULER / PICK UP
+Wuling,400.000,REGULER / PICK UP
+Stargazer,400.000,REGULER / PICK UP
+Xpander,400.000,REGULER / PICK UP
+Innova Reborn,450.000,PREMIUM / CDE
+Elf Short,450.000,MINI BUS
+CDD Bak Engkel,550.000,SUV / HIACE / ELF
+Innova Zenix,600.000,PREMIUM / CDE
+Hiace Commuter,700.000,SUV / HIACE / ELF
+CDD Bak Double,700.000,MEDIUM BUS / CDD / FUSO
+Fortuner,850.000,SUV / HIACE / ELF
+Pajero,900.000,SUV / HIACE / ELF
+Voxy,800.000,SUV / HIACE / ELF
+Ranger,800.000,SUV / HIACE / ELF
+Hilux,800.000,SUV / HIACE / ELF
+Triton,800.000,SUV / HIACE / ELF
+Elf Long,800.000,SUV / HIACE / ELF
+Elf Giga,800.000,SUV / HIACE / ELF
+Camry,800.000,SUV / HIACE / ELF
+Hiace Premio,800.000,SUV / HIACE / ELF
+Medium Bus,1.200.000,MEDIUM BUS / CDD / FUSO
+Hiace Commuter VVIP,1.200.000,HIGHT PREMIUM
+Vellfire,1.300.000,HIGHT PREMIUM
+Alphard Transformer,1.300.000,HIGHT PREMIUM
+Truk Bak,1.500.000,BIG BUS / TRONTON / LUXURY
+Truk Box,1.500.000,BIG BUS / TRONTON / LUXURY
+Trailer Bak,1.500.000,BIG BUS / TRONTON / LUXURY
+Trailer Box,1.500.000,BIG BUS / TRONTON / LUXURY
+Alphard Facelift,1.500.000,HIGHT PREMIUM
+Palisade,1.500.000,HIGHT PREMIUM
+Mercy,1.500.000,HIGHT PREMIUM
+BMW,1.500.000,HIGHT PREMIUM
+Big Bus,1.500.000,BIG BUS / TRONTON / LUXURY
+Hiace Premio VVIP,1.500.000,HIGHT PREMIUM
+Mercy Sprinter,2.500.000,HIGHT PREMIUM
+Medium Bus VIP Luxury,2.500.000,HIGHT PREMIUM
+Big Bus VIP Luxury,3.500.000,BIG BUS / TRONTON / LUXURY
+New Alphard Hybrid,3.500.000,HIGHT PREMIUM
+Land Cruiser,7.500.000,BIG BUS / TRONTON / LUXURY
